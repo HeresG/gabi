@@ -47,7 +47,6 @@ def aria():
     print("a*b=", int(a)*int(b))
 
 
-
 if __name__ == '__main__':
     suma()
     diferanta()
