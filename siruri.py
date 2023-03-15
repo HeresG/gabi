@@ -102,5 +102,5 @@ def elim_spatii_inutile():
 
 
 if __name__ == "__main__":
-    elim_spatii_inutile()
+   schimbare()
 
